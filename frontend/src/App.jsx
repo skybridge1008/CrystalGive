@@ -5,8 +5,8 @@ import CrystalGiveArtifact from "./CrystalGive.json";
 
 // --- 설정 영역 ---
 const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
-const PINATA_API_KEY = "c84cc68326cc07368078"; 
-const PINATA_SECRET_KEY = "682fb9bc9b22df1e2b6a2e985ceaf5ff15a7fa636851d3a694e0dae81606d099";
+const PINATA_API_KEY = "INPUT_YOUR_API_KEY"; 
+const PINATA_SECRET_KEY = "INPUT_YOUR_SECRET_KEY";
 
 
 
